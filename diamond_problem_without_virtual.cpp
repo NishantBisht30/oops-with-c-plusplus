@@ -44,6 +44,6 @@ int main()
     d.display2();
     d.display3();
 
-d.k = 10;     // will show : memeber display was ambiguous
+d.k = 10;     // will show : member display was ambiguous     hahahaahahahahah......
     return 0;
 }
