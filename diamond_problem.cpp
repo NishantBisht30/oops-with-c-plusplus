@@ -39,7 +39,7 @@ public:
 int main()
 {
     D d;
-    //d.display();
+    d.display();
     d.display1();
     d.display2();
     d.display3();
